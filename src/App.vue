@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import pdfViewer from './components/pdf-viewer.vue'
+import pdfViewer from "./components/pdf-viewer.vue";
 
 export default {
   name: "App",
@@ -16,7 +16,8 @@ export default {
 </script>
 
 <style lang="less">
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   font-family: Avenir, Helvetica, Arial, sans-serif;
